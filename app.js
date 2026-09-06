@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
   res.send(`
     <h1>🅿️ Smart Parking</h1>
     <h2>Welcome to Smart Parking DevOps Project 🚀</h2>
-    <p>Available places: 2 / 4</p>
+    <p>Available places: 3 / 4</p>
   `);
 });
 
