@@ -1,0 +1,6 @@
+services:
+  smart-parking:
+    build: .
+    container_name: smart-parking-app
+    ports:
+      - "3000:3000"
